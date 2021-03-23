@@ -1,3 +1,4 @@
 test git rebase
 another write commit 1
+test rebase write 1 commit
 another write commit 2
